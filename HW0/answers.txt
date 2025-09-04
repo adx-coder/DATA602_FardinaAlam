@@ -1,1 +1,1 @@
-hi
+I am interested in taking DATA602 because it provides the opportunity to gain hands-on experience with PySpark and Hadoop. I want to deepen my understanding of big data processing and distributed computing, and this course will allow me to apply these tools to efficiently handle and analyze large datasets.
